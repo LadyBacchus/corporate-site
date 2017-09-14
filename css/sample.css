@@ -206,6 +206,7 @@ header
   color: #42b9d0;
   font-weight: bold;
   display: block;
+  display: inline;
   margin-bottom: 3px; }
 
 @media (min-width: 550px) {
